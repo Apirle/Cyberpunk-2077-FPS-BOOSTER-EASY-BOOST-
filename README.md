@@ -3,4 +3,4 @@ Cyberpunk 2077 FPS BOOSTER, Place the Python File in your game directory, then c
 
 Originaly known as "EZ Optimizer"
 
-I re-made it since a lot of people were suspicious that the original was a malware as well.
+I re-made it since a lot of people were suspicious that the original was a malware.
